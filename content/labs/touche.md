@@ -19,7 +19,7 @@ Touché is a series of scientific events and shared tasks on argumentation syste
 
 ## Tasks
 
-The Touché Lab features four different tasks:
+The Touché Lab features the following tasks:
 
 {{< accordion  open_all="true" >}}
   {{< accordion-item title="Fallacy Detection" >}}
